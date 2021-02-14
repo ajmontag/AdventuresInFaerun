@@ -57,7 +57,7 @@ Pact of the Blade: Use an action to retrieve your whip from a pocket dimension.
 [Religion](. "Cleric")
 
 ## **Posessions**
-- Satchel
+- [Satchel](../item/Satchel%20of%20Candlekeep.md)
   - Holy Symbol of Deneir  
   - Personal Journal   
   - 5 Pens, Nibs, Inkwells  
