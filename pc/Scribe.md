@@ -5,9 +5,9 @@ Scribe stands tall--broad shouldered with sparkling amber hair. His piercing haz
 
 Scribe had a given name that he lost when he became an Avowed servant of Candlekeep at a young age. He began his time at Candlekeep training as a Cleric of Deneir under his mentor Gaeous Melvin, who is a father figure, and keeper of Scribe's given name. During scribes work, he did extensive research and discovered a magic mushroom hiden in the pages of an ancient tome. The tome spoke of an ancient mycilleal mat that underlies the universe, and after consuming the mushroom, Scribe found himself on the Astral plane, and realized his connection to the ancient mycilleal mat, and all conciousness. Upon returning from the astral plane, and being confronted by Deneir, Scribe convinces Deneir that he should continue to learn about the ancient one, and document his findings in the library.  
 
-**1** Cleric, **6** Warlock, **Neutral** Alignment   
+**1** Cleric, **6** Warlock, **Chaotic Neutral**   
 
-**Asimir** Neutral  
+**Protector Asimir** [](VOL105)   
 **Speed** 30  
 **Proficiency Bonus** 3
 
@@ -40,4 +40,7 @@ Ability | Mod | Save | Score
 ## Future Ideas
 Actor (Feat)
 Defensive Duelist (Feat) 
+
+Learn to make poop juice 
+Learn to grow mushrooms of Astral Projection 
 
