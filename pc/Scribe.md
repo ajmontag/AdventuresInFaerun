@@ -54,13 +54,13 @@ Level | Spell | Source
 ### Warlock Spells Known 
 Level | Spell | Source
 ---|---|---
-? | ? | Warlock Level 1
-? | ? | Warlock Level 1
-? | ? | Warlock Level 2
-? | ? | Warlock Level 3
-? | ? | Warlock Level 4
-? | ? | Warlock Level 5
-? | ? | Warlock Level 6
+1st | ? | Warlock Level 1
+1st | ? | Warlock Level 1
+1st | ? | Warlock Level 2
+2nd | ? | Warlock Level 3
+2nd | ? | Warlock Level 4
+3rd | ? | Warlock Level 5
+3rd | ? | Warlock Level 6
 
 ## Eldrich Invocations
 Invocation | Info | Source |

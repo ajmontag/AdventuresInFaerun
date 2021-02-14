@@ -14,4 +14,4 @@ CON save DC 18 else
 or vomit uncontrollably [Paralyzed](. "no action/reaction, can't move, advantage to attackers, hits are crit within 5 ft") until the end your next turn if the roll is a 1 or a 2.
 
 **Bonus Action** Use a bonus action 1/day to gain 15 temporary hit points from the whip  
-**Bonus Action** Use a bonus action 1/day to extend each to 300 ft for the duration of the action
+**Bonus Action** Use a bonus action 1/day to extend reach to 300 ft for the duration of the action
