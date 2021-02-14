@@ -9,7 +9,7 @@ Scribe had a given name that he lost when he became an Avowed servant of Candlek
 
 **Protector Asimir** [](VOL105)   
 **Speed** 30  
-**Proficiency Bonus** 3
+**Proficiency Bonus** 3  
 
 **Hit Points** 
 [45](9+(6*(5+1)))
