@@ -96,7 +96,7 @@ Spell Level | Spells
 ## Features
 Aasimir Wings: Fly 30 ft, Additional radiant damage equal to level, duration 1 minute, 1/long rest. VOL105   
 
-Damage Resistance: Radiant, Necrotic  
+Damage Resistance: Radiant, Poison  
 
 Pact of the Blade: Use an action to retrieve your whip from a pocket dimension.  
 
