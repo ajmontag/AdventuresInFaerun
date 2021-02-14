@@ -2,12 +2,15 @@
 
 This repository stores personal information regarding my adventures in Faerûn. 
 
-## pc
+This content is intended for a mature audience. 
+
+## Directories 
+### pc
 Player Character Sheets and Information
 
-## quest
+### quest
 Details of homebrewed quests
 
-## item
+### item
 Homebrewed Items
 
