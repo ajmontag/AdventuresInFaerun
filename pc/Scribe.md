@@ -63,7 +63,7 @@ Level | Source | Spell | Effects | Notes
 2nd | Warlock Level 1 | Invisability | |
 2nd | Warlock Level 2 | Shatter | 4d8+ thunder | 
 3rd | Warlock Level 3 | Vamprirc Touch | Melee spell attack, 3d6+ regain half
-3rd | Warlock Level 4 | Summon Myconid | (TBD, based on Tasha's summon spells)
+3rd | Warlock Level 4 | [Summon Myconid](../spell/Summon%20Myconid.md) |
 3rd | Warlock Level 5 | Fear | Concentration, Frightened | 30 ft cone, WIS save, drop items, frightened, dash
 3rd | Warlock Level 6 | Hunger of Hadar | Concentration, Blinded | 2d6 cold (start), 2d6 acid (end, dex save), 20 ft radius, blinded
 
