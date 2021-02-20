@@ -28,11 +28,11 @@ Ability | Mod | Save | Score
 ## Spells 
 
 ### Cleric Spells Known
-Level | Spell | Source |
----|---|---
-Cantrip | ? | Cleric Level 1
-Cantrip | ? | Cleric Level 1
-Cantrip | ? | Cleric Level 1
+Level | Spell | Source | Spell | Notes 
+---|---|---|---|---
+Cantrip | ? | Cleric Level 1 | Guidance |
+Cantrip | ? | Cleric Level 1 | Mending |
+Cantrip | ? | Cleric Level 1 | Spare the Dying |
 1st | Command | Cleric Knowledge Domain
 1st | Identify | Cleric Knowledge Domain
 
@@ -44,30 +44,48 @@ Level | Spell | Source
 ? | ? | Cleric Level 1
 ? | ? | Cleric Level 1
 
+Bane, Concentration, subtract 1d4 from ability/attack rolls  
+Bless  
+Command, Grovel (Prone)  
+Guiding Bolt, 4d6 radiant + advantage  
+Sanctuary, WIS save to be able to target me  
+Inflict Wounds, touch 3d10
+Spriitual Weapon (must be cast with warlock slot)
+
+
 ### Warlock Cantrips 
 Level | Spell | Source
 ---|---|---
 ? | ? | Warlock Level 1
 ? | ? | Warlock Level 1
 ? | ? | Warlock Level 4
+Chill Touch 2d8 Necro+ & Disadvantage  
+Endrich Blast 1d10 x2  
+Mage Hand  
+Poison Spray 10 ft 2d12 Con Save, 10 ft
+True Strike (Action, Concentration, Gain Advantage) 
+
 
 ### Warlock Spells Known 
-Level | Spell | Source
----|---|---
-1st | ? | Warlock Level 1
-1st | ? | Warlock Level 1
-1st | ? | Warlock Level 2
-2nd | ? | Warlock Level 3
-2nd | ? | Warlock Level 4
-3rd | ? | Warlock Level 5
-3rd | ? | Warlock Level 6
+Level | Spell | Source | Spell | Effects | Notes
+---|---|---|---|---|---
+2nd | ? | Warlock Level 1 | Misty Step |
+2nd | ? | Warlock Level 1 | Invisability |
+2nd | ? | Warlock Level 2 | Shatter | 4d8+ thunder 
+3rd | ? | Warlock Level 3 | Vamprirc Touch | Melee spell attack, 3d6+ regain half
+3rd | ? | Warlock Level 4 | Summon Myconid | (TBD, based on Tasha's summon spells)
+3rd | ? | Warlock Level 5 | Fear | Concentration, Frightened | 30 ft cone, WIS save, drop items, frightened, dash
+3rd | ? | Warlock Level 6 | Hunger of Hadar | Concentration, Blinded | 2d6 cold (start), 2d6 acid (end, dex save), 20 ft radius, blinded
 
+<!-- Fly (3rd), Hold Person (2nd), Spirit Shroud (3rd) -->
 ## Eldrich Invocations
-Invocation | Info | Source |
+Source | Invocation | Info | 
 ---|---|---
-? | ? | Warlock Level 2
-? | ? | Warlock Level 2
-? | ? | Warlock Level 5
+Warlock Level 2 | Fiendish Vigor | False Life as Level 1 at will (1d4+4 HP) 
+Warlock Level 2 | Misty Visions | Silent Image at will 
+Warlock Level 5 | Thirsting Blade | Two attacks with pact weapon per action 
+
+
 
 <!--
 ### Great Old One Expanded Spell List
