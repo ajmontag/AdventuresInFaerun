@@ -16,6 +16,8 @@ Scribe stands tall—broad shouldered with sparkling amber hair. His piercing ha
 
 **Armor Class** [15](. "13 Chain Shirt + 2 Dex") or  [17](. "13 Chain Shirt + 2 Dex + 2 Shield")
 
+**XP** 23,000
+
 **Weapon** [Whip of the Hyphae](../item/Whip%20of%20the%20Hyphae.md)
 
 Ability | Mod | Save | Score
