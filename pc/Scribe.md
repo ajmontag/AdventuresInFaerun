@@ -1,6 +1,8 @@
 # Scribe
 _Loyal servant of Deneir, Avowed of Candlekeep, Scribe to the deepest corners of the universe_
 
+![](Scribe.png)
+
 Scribe stands tall—broad shouldered with sparkling amber hair. His piercing hazel eyes command attention, and his well-groomed beard reminds you of a scholar.  Upon the pack on his back is strapped a shield, albeit never been used.  Slung carefully over his left shoulder is an oiled cloth satchel, a quill peeking out. 
 
 **1** Cleric, **6** Warlock, **Chaotic Neutral**   
@@ -28,57 +30,45 @@ Ability | Mod | Save | Score
 ## Spells 
 
 ### Cleric Spells Known
+_Cast at will_
 Level | Spell | Source | Spell | Notes 
 ---|---|---|---|---
-Cantrip | ? | Cleric Level 1 | Guidance |
-Cantrip | ? | Cleric Level 1 | Mending |
-Cantrip | ? | Cleric Level 1 | Spare the Dying |
-1st | Command | Cleric Knowledge Domain
-1st | Identify | Cleric Knowledge Domain
+Cantrip | Cleric Level 1 | Guidance | +1d4 to ability checks
+Cantrip | Cleric Level 1 | Mending |
+Cantrip | Cleric Level 1 | Spare the Dying |
+1st | Cleric Knowledge Domain | Command | 
+1st | Cleric Knowledge Domain | Identify |
 
-### Cleric Spells Prepared: 
+### Cleric Spells Prepared
 _[3](. "2 WIS + 1 Level Cleric") + Domain Spells_
-Level | Spell | Source
+Spell | Info | Source
 ---|---|---
-? | ? | Cleric Level 1
-? | ? | Cleric Level 1
-? | ? | Cleric Level 1
-
-Bane, Concentration, subtract 1d4 from ability/attack rolls  
-Bless  
-Command, Grovel (Prone)  
-Guiding Bolt, 4d6 radiant + advantage  
-Sanctuary, WIS save to be able to target me  
-Inflict Wounds, touch 3d10
-Spriitual Weapon (must be cast with warlock slot)
+Bane | Concentration, subtract 1d4 from ability/attack rolls | Cleric Level 1
+Sanctuary | bonus action, WIS save to be able to target self/ally | Cleric Level 1
+Guiding Bolt | 4d6 radiant + advantage to next attack | Cleric Level 1
 
 
 ### Warlock Cantrips 
-Level | Spell | Source
+Spell | Info | Source
 ---|---|---
-? | ? | Warlock Level 1
-? | ? | Warlock Level 1
-? | ? | Warlock Level 4
-Chill Touch 2d8 Necro+ & Disadvantage  
-Endrich Blast 1d10 x2  
-Mage Hand  
-Poison Spray 10 ft 2d12 Con Save, 10 ft
-True Strike (Action, Concentration, Gain Advantage) 
+Mage Hand | Floating Hand, action to cast and move | Warlock Level 1
+Endritch Blast | 1d10 x2, ranged spell attack 120 ft  | Warlock Level 1
+True Strike | Action, Concentration, Gain Advantage | Warlock Level 4
 
 
 ### Warlock Spells Known 
-Level | Spell | Source | Spell | Effects | Notes
----|---|---|---|---|---
-2nd | ? | Warlock Level 1 | Misty Step |
-2nd | ? | Warlock Level 1 | Invisability |
-2nd | ? | Warlock Level 2 | Shatter | 4d8+ thunder 
-3rd | ? | Warlock Level 3 | Vamprirc Touch | Melee spell attack, 3d6+ regain half
-3rd | ? | Warlock Level 4 | Summon Myconid | (TBD, based on Tasha's summon spells)
-3rd | ? | Warlock Level 5 | Fear | Concentration, Frightened | 30 ft cone, WIS save, drop items, frightened, dash
-3rd | ? | Warlock Level 6 | Hunger of Hadar | Concentration, Blinded | 2d6 cold (start), 2d6 acid (end, dex save), 20 ft radius, blinded
+Level | Source | Spell | Effects | Notes
+---|---|---|---|---
+2nd | Warlock Level 1 | Misty Step | |
+2nd | Warlock Level 1 | Invisability | |
+2nd | Warlock Level 2 | Shatter | 4d8+ thunder | 
+3rd | Warlock Level 3 | Vamprirc Touch | Melee spell attack, 3d6+ regain half
+3rd | Warlock Level 4 | Summon Myconid | (TBD, based on Tasha's summon spells)
+3rd | Warlock Level 5 | Fear | Concentration, Frightened | 30 ft cone, WIS save, drop items, frightened, dash
+3rd | Warlock Level 6 | Hunger of Hadar | Concentration, Blinded | 2d6 cold (start), 2d6 acid (end, dex save), 20 ft radius, blinded
 
-<!-- Fly (3rd), Hold Person (2nd), Spirit Shroud (3rd) -->
-## Eldrich Invocations
+
+### Eldrich Invocations
 Source | Invocation | Info | 
 ---|---|---
 Warlock Level 2 | Fiendish Vigor | False Life as Level 1 at will (1d4+4 HP) 
@@ -86,20 +76,35 @@ Warlock Level 2 | Misty Visions | Silent Image at will
 Warlock Level 5 | Thirsting Blade | Two attacks with pact weapon per action 
 
 
+## Battle Strategies  
+Do everything you can to give the party advantage, or the enemy disadvantage.   
 
-<!--
-### Great Old One Expanded Spell List
-_Currently not using any of these_
-Spell Level | Spells
---- | ---
-1st | dissonant whispers, hideous laughter  
-2nd | detect thoughts, phantasmal force  
-3rd | clairvoyance, sending
-4th | dominate beast, black tenticles 
-5th | dominate person, telekenisis 
--->
+Before the Battle:
+- Invisibility: used in conjunction with Misty Visions or Mage Hand to enter new areas, or with Telepathic speaking 
+- Misty visions: a version of Bro-Kag attempting to sneak past (action, concentration, at will) 
+- Mage Hand: have the hand unsheath enemy weapon or pull cloak over eyes, etc (action, cantrip) 
+- Command: "Grovel" enemy goes prone (action, at will)  
+- True Strike: (action, cantrip, advantage to me)
+- Bane: (1st Level Spell Slot, Concentration, subtract 1d4 from enemy rolls) 
+- Summon Myconyd: Spores attack first to become poisoned
 
-### Spell Slots
+During the Battle: 
+- If concentrating, use "entropic ward" reaction to impose disadvantage and gain advantage
+- Guiding Bolt, to give advantage on next attack
+- Whip of the Hyphae, Two Attacks, Use Lucky to damage their saveing throw if no disadvantage
+- Once incapacitated, use Vampiric Touch
+
+If things turn south: 
+- Sanctuary (bonus action)
+- Temporary HP from whip
+- False Live (at will)
+- Hunger of Hadar
+- Fear
+- Aasimir Wings
+- Misty Step
+
+
+## Spell Slots
 - [ ][ ] 1st (Cleric Level 1)
 - [ ][ ] 3rd (Warlock Level 6)
 
@@ -112,18 +117,19 @@ Spell Level | Spells
 - [ ][ ][ ][ ][ ][ ][ ] Hit die (long rest) 
 
 ## Features
-Aasimir Wings: Fly 30 ft, Additional radiant damage equal to level, duration 1 minute, 1/long rest. VOL105   
+**Aasimir Wings**: Action. Fly 30 ft, Additional radiant damage equal to level, duration 1 minute, 1/long rest. [Radiant Soul](VOL105)   
 
-Damage Resistance: Radiant, Poison  
+**Damage Resistance**: Radiant, Poison  
 
-Pact of the Blade: Use an action to retrieve your whip from a pocket dimension.  
+**Pact of the Blade**: Use an action to retrieve your whip from a pocket dimension.  
 
-Awakened Mind: Telepathic speaking up to 30 ft. PHB110
+**Awakened Mind**: Telepathic speaking up to 30 ft. PHB110
 
-Entropic Ward: When an enemy attacks you, use your reaction to impose disadvantage on that roll. 
+**Entropic Ward**: When an enemy attacks you, use your reaction to impose disadvantage on that roll. 
 If the attack misses, you get advantage on your next attack against the creature on your next turn. 1/short rest
 
-Lucky (Feat): Whenever you make an attack roll, ability check, or saving throw, you may roll an additional d20. You can use this ability after the original roll, but before the outcome is revealed. You choose which of the d20s is used for the attack roll, ability check, or saving throw, _OR_ when an attack roll is made against you, roll a d20, and choose whether the attacker's roll uses their d20 roll or yours. 3/long rest
+**Lucky** _(Feat)_: 
+Whenever you make an attack roll, ability check, or saving throw, you may roll an additional d20. You can use this ability after the original roll, but before the outcome is revealed. You choose which of the d20s is used for the attack roll, ability check, or saving throw, _OR_ when an attack roll is made against you, roll a d20, and choose whether the attacker's roll uses their d20 roll or yours. 3/long rest
 
 ### **Languages**
 [Common](. "Aasimir")
@@ -142,10 +148,13 @@ Lucky (Feat): Whenever you make an attack roll, ability check, or saving throw, 
   - Holy Symbol of Deneir  
   - Personal Journal   
   - 5 Pens, Nibs, Inkwells  
+  - Spell Components, incl. Guilded Mushroom
 - Backpack
   - Poisioners Kit  
   - Handaxe  
   - Shield  
+  - Healing Potion
+  - 800 gp
 - Riding Horse
   - Saddle 
   - Saddle Bags
@@ -161,6 +170,13 @@ Lucky (Feat): Whenever you make an attack roll, ability check, or saving throw, 
 - Observant (Feat)  
 - Learn to make poop juice 
 - Learn to grow mushrooms of Astral Projection 
+- Spirit Shroud (3rd Level Spell, Tasha's)
+
+### Great Old One Expanded Spell List
+_Currently not using any of these_
+Spell Level | Spells
+4th | **dominate beast, black tenticles** 
+5th | **dominate person, telekenisis** 
 
 
 ## Secret Stuff
