@@ -5,6 +5,8 @@ _Loyal servant of Deneir, Avowed of Candlekeep, Scribe to the deepest corners of
 
 Scribe stands tall—broad shouldered with sparkling amber hair. His piercing hazel eyes command attention, and his well-groomed beard reminds you of a scholar.  Upon the pack on his back is strapped a shield, albeit never been used.  Slung carefully over his left shoulder is an oiled cloth satchel, a quill peeking out. 
 
+"Pardon my delay, I rode through the night to I am scribe of Candlekeep, here to fullfill my oath to defend and protect Candlekeep and all the knowledge in this universe." 
+
 **1** Cleric, **6** Warlock, **Chaotic Neutral**   
 
 **Race** [Protector Asimir](VOL105)   
@@ -16,7 +18,7 @@ Scribe stands tall—broad shouldered with sparkling amber hair. His piercing ha
 
 **Armor Class** [15](. "13 Chain Shirt + 2 Dex") or  [17](. "13 Chain Shirt + 2 Dex + 2 Shield")
 
-**XP** 23,000
+**XP** 26,000
 
 **Weapon** [Whip of the Hyphae](../item/Whip%20of%20the%20Hyphae.md)
 
