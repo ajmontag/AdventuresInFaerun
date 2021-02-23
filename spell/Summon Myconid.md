@@ -18,7 +18,7 @@ If you don't issue any commands, it uses the dodge action and uses it's move to 
 ## Summoned Myconid
 _Medium Fungi_  
 
-**Armor Class:** 15 + 1 for each spell level above 3rd  
+**Armor Class:** 14 + 1 for each spell level above 3rd  
 **Hit Points:** 30 + 10 for each spell level above 3rd  
 **Speed:** 30 feet  
 
@@ -29,7 +29,7 @@ Ability | Mod |
 **DEX** |  0  |
 **CON** | +1  |
 **INT** |  0  |
-**WIS** | +2  |
+**WIS** | +1  |
 **CHA** |  0  |
 
 **Immunities:** necrotic, poison  
