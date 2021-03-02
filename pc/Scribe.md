@@ -18,7 +18,7 @@ Scribe stands tall—broad shouldered with sparkling amber hair. His piercing ha
 
 **Armor Class** [15](. "13 Chain Shirt + 2 Dex") or  [17](. "13 Chain Shirt + 2 Dex + 2 Shield")
 
-**XP** 26,000
+**XP** 26,750
 
 **Weapon** [Whip of the Hyphae](../item/Whip%20of%20the%20Hyphae.md)
 
@@ -125,6 +125,8 @@ If things turn south:
 
 **Damage Resistance**: Radiant, Poison  
 
+**Darkvision** dim light 60 ft
+
 **Pact of the Blade**: Use an action to retrieve your whip from a pocket dimension.  
 
 **Awakened Mind**: Telepathic speaking up to 30 ft. PHB110
@@ -159,6 +161,7 @@ Whenever you make an attack roll, ability check, or saving throw, you may roll a
   - Shield  
   - Healing Potion
   - 800 gp
+  - Bedroll
 - Riding Horse
   - Saddle 
   - Saddle Bags
