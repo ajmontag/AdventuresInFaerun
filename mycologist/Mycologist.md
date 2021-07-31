@@ -44,13 +44,16 @@ There are two stages to cultivating mushrooms: spawning and fruiting.
 
 ### Spawning
 Spawing is the process of using a spore print to create mushroom spawn. This process takes one hour of active time, and one tenday to complete. 
-A small amount of nutrient material is sterialized in water in a glass jar, and cooled. Then, a small portion of the spore print is placed into the jar. After the tenday has passed, roll a mycology check to see if you were successful. Since a spore print can be used an indefinate number of times, many mycologists will create redundant spawn jars to lessen the chance of failure. 
+A small amount of nutrient material is sterialized in water in a glass jar, and cooled. Then, a small portion of the spore print is placed into the jar. After the tenday has passed, roll a mycology check  against the cultivation DC to see if you were successful. Since a spore print can be used an indefinate number of times, many mycologists will create redundant spawn jars to lessen the chance of failure. A spawn jar will last an indefinate amount of time. 
 
 
 ### Fruiting 
-Fruting is the process of adding spawn to a nutrient material fruiting block, and letting it grow to maturity. 50 gp worth of nutrient material is required per fruiting block. This takes one hour of active time, and one tenday to complete. Fruting blocks are bulky, and weigh 10 pounds. They cannot be moved during the fruiting process. 
+Fruting is the process of adding spawn to a nutrient material fruiting block, and letting it grow to maturity. One spawn jar can create up to 8 fruiting blocks. 50 gp worth of nutrient material is required per fruiting block. This takes one hour of active time, and one tenday to complete. Fruting blocks are bulky, and weigh 10 pounds. They cannot be moved during the fruiting process. 
 
-Fruiting done indoors is reliable. The mushrooms will either produce in a tenday, or they fail. After the tenday has passed, roll a mycology check to see if you were successful. The fruiting blocks cannot be re-used. 
+Fruiting done indoors is reliable. The mushrooms will either produce in a tenday, or they fail. After the tenday has passed, roll a mycology check against the cultivation DC to see if you were successful. The fruiting blocks cannot be re-used. 
 
-Fruiting outdoors is more sparatic. After the first tenday has passed, roll a mycology check to see if you were successful. If you were successful, you have a 1 in 10 chance of having mushrooms at your mushroom patch on any given day. 
+Fruiting outdoors is more sparatic. After the first tenday has passed, roll a mycology check against the cultivation DC to see if you were successful. If you were successful, you have a 1 in 10 chance of having mushrooms at your mushroom patch on any given day. 
 
+
+### Harvesting
+If successful, each fruiting block will produce 1d8 mushrooms, which can be used fresh or dried. 
