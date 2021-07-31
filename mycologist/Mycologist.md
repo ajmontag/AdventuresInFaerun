@@ -4,7 +4,8 @@ _Profession, Skill, Craft_
 **This is playtest material**
 
 A mycologist is someone who studies fungi and mushrooms.
-They will generally search the wild for mushrooms, identify them, then possibly consume them, or attempt to grow more of them. 
+They will generally search for wild mushrooms, identify them, and cultivate them. 
+Both wild and cultivated mushrooms can be consumed for their effects. 
 
 
 ## Mycology Skill 
@@ -33,7 +34,7 @@ No. | Mushroom | Effect | Environment | Cultivation DC
 --- |----------|--------|-------------|-------
 1 | Common Oyster |      |  8 = 8|-------
 
-## Finding mushrooms
+## Searching for mushrooms
 Mushrooms will grow almost anywhere, but finding them is a different matter. Some only grow in extreme climates. To search for mushrooms, spend at least 10 minutes searching an area. 
 
 
