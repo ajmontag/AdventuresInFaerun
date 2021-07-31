@@ -27,6 +27,11 @@ Very Rare (Level 3): DC 18, requires a level 3 mushroom identificaion book (item
 Legendary (Level 4): DC 20, requires a level 4 mushroom identificaion book (item, very rare, 500 gp)
 Artifact (Level 5): same as level 4
 
+TODO what to roll to see if you find anything? Perception? Mycology?
+
+No. | Mushroom | Effect | Environment | Cultivation DC
+--- |----------|--------|-------------|-------
+1 | Common Oyster |      |  8 = 8|-------
 
 ## Finding mushrooms
 Mushrooms will grow almost anywhere, but finding them is a different matter. Some only grow in extreme climates. To search for mushrooms, spend at least 10 minutes searching an area. 
