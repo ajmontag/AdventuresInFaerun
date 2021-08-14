@@ -13,20 +13,8 @@ You can use an *Arcana* or *Nature* skills for mycology.
 
 
 ## Spore Prints
-A spore print can be taken of a fresh mushroom and can be preserved indefinately. You can save a spore print for future identification, or cultivation. 
+A spore print can be taken of a fresh mushroom and can be preserved indefinately. You can save a spore print for future cultivation. 
 To take a spore print, remove the cap of the mushroom and place it over a piece of parchment. Let it sit undisturbed for 8 hours, then remove the mushroom cap. You can still use the fresh mushroom, but you cannot make another spore print.
-
-
-## Identifying Mushrooms
-Each mushroom you come across in the wild has an identification DC.
-Roll a mycology check. If you have both the fresh mushroom and a spore print, add +2 to the roll. 
-
-Common (Level 0): DC 10, can be identified without special tools or books. 
-Uncommon (Level 1): DC 14, requires a level 1 mushroom identificaion book (item, common, 20 gp)
-Rare (Level 2): DC 16, requires a level 2 mushroom identificaion book (item, uncommon, 50 gp)
-Very Rare (Level 3): DC 18, requires a level 3 mushroom identificaion book (item, rare, 200 gp)
-Legendary (Level 4): DC 20, requires a level 4 mushroom identificaion book (item, very rare, 500 gp)
-Artifact (Level 5): same as level 4
 
 
 ## Searching for mushrooms
@@ -34,9 +22,11 @@ Mushrooms will grow almost anywhere, but finding them is a different matter. Som
 
 TODO what to roll to see if you find anything? Perception? Mycology?
 
-No. | Mushroom | Effect | Cultivation DC | Environment |
+## Mushrooms
+
+No. | Mushroom | Effect | Discovery DC | Cultivation DC | Environment |
 --- |----------|--------|-------------|-------
-1 | Turkey Tail | Heals 2d4+2 HP | 12 | Woodlands
+1 | Turkey Tail | Heals 2d4+2 HP | 10 | 12 | Woodlands
 
 
 ## Cultivating Mushrooms
