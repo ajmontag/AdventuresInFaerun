@@ -25,7 +25,7 @@ TODO what to roll to see if you find anything? Perception? Mycology?
 ## Mushrooms
 
 No. | Mushroom | Effect | Discovery DC | Cultivation DC | Environment |
---- |----------|--------|-------------|-------
+--- |----------|--------|-------------|-------------|-------
 1 | Turkey Tail | Heals 2d4+2 HP | 10 | 12 | Woodlands
 
 
