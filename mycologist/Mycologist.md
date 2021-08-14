@@ -27,7 +27,7 @@ TODO what to roll to see if you find anything? Perception? Mycology?
 No. | Mushroom | Effect | Discovery DC | Cultivation DC | Environment |
 --- |----------|--------|-------------|-------------|-------
 1 | Turkey Tail | Heals 2d4+2 HP | 10 | 12 | Woodlands
-2 | Stubborn Dwarf | Poisons for 4d6 hours | 16 | 10 | Rocky Areas
+2 | Stubborn Dwarf | DC 15 Con save or poisons for 4d6 hours | 16 | 10 | Rocky Areas
 3 | Kiss of Death | DC 16 Con save or take 1d6 poison damage. Repeat every 24 hours until 7 successful saving throws | 10 | 16 | Tombs and Graves
 
 
